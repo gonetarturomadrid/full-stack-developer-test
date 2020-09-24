@@ -1,0 +1,22 @@
+{
+  "name": "hugoapp",
+  "version": "1.0.0",
+  "description": "programa para la prueba de hugoapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonetarturomadrid/full-stack-developer-test.git"
+  },
+  "author": "arturomadrid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonetarturomadrid/full-stack-developer-test/issues"
+  },
+  "homepage": "https://github.com/gonetarturomadrid/full-stack-developer-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
